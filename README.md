@@ -169,6 +169,8 @@
 * Внедрение системы контроля версий
 * Работа с историей и ветками
 * Командная работа
-***
 
+
+****
 ![Иллюстрация к проекту](https://github.com/radikzoom/Introduction-to-Software-Testing/blob/main/certificate.jpg)
+****
