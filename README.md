@@ -1,6 +1,9 @@
 # Introduction-to-Software-Testing
 ***
-
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
 ## 1.Введение в тестирование ПО. Методы и виды тестирования 
 
 ### _Основные понятия и определения_
