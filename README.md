@@ -1,7 +1,12 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/radikzoom/Introduction-to-Software-Testing/total)
 ![GitHub issues](https://img.shields.io/github/issues/radikzoom/Introduction-to-Software-Testing)
 ![GitHub repo size](https://img.shields.io/github/repo-size/radikzoom/Introduction-to-Software-Testing)
+
+## Тестирование ПО 14 декабря — 29 января. 
+## ООО «ЦОО Нетология-групп»
+
 ***
+
 ## 1.Введение в тестирование ПО. Методы и виды тестирования
 
 <test>
