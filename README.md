@@ -1,4 +1,5 @@
 ![AppVeyor](https://img.shields.io/appveyor/build/radikzoom/Introduction-to-Software-Testing)
+![GitHub manifest version](https://img.shields.io/github/manifest-json/v/radikzoom/Introduction-to-Software-Testing)
 ***
 ## 1.Введение в тестирование ПО. Методы и виды тестирования
 
